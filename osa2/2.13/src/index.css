@@ -1,0 +1,41 @@
+body {
+  margin: 1;
+  padding: 0;
+  font-family: sans-serif;
+}
+h1{
+  color:black;
+  font-style: italic;
+}
+
+li{
+  color:grey;
+  font-size: 25px;
+}
+
+button{
+  color:red;
+}
+
+.success {
+  color: black;
+  background: green;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.error {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+img{
+  height: 500;
+  width: 200;
+}
